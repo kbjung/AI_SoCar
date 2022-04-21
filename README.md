@@ -1,5 +1,6 @@
 # 🚗 AI_SoCar
 쏘카 AI 엔지니어 육성 부트캠프 2기
++ 기간 : 2022.04.20 ~ 2022.07.22(13)
 
 ## Pre-Camp
 + 신경망 기초 수학 [code](https://github.com/kbjung/AI_SoCar/blob/main/pre_camp/_2_%EC%8B%A0%EA%B2%BD%EB%A7%9D_%EA%B8%B0%EC%B4%88_%EC%88%98%ED%95%99.ipynb)
