@@ -12,10 +12,10 @@
 
 ### Class
 + 1주차
-  - 정리 [notion](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
+  - 정리 [[notion]](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
   - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-1.%20Python%2C%20NumPy.ipynb)
   - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-2.%20Linear%20Regression.ipynb)
 + 2주차
-  - 정리 [notion](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
+  - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
   - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-1.%20Logistic%20Regression.ipynb)
   - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-2.%20Decision%20Tree.ipynb)
