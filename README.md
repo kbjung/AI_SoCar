@@ -9,3 +9,11 @@
 + Matplolib 한번에 제대로 배우기 
   - 코드 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/pre_camp/_Matplotlib_%ED%95%9C%EB%B2%88%EC%97%90_%EC%A0%9C%EB%8C%80%EB%A1%9C_%EB%B0%B0%EC%9A%B0%EA%B8%B0.ipynb)
   - 강의영상 [youtube](https://www.youtube.com/watch?v=5DfACSYgP0U&list=PLl9-sJD6_CLkLQrwICIebNIyBYOWxBPFW&index=6&t=2456s)
+
+### Class
++ 1주차
+  - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-1.%20Python%2C%20NumPy.ipynb)
+  - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-2.%20Linear%20Regression.ipynb)
++ 2주차
+  - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-1.%20Logistic%20Regression.ipynb)
+  - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-2.%20Decision%20Tree.ipynb)
