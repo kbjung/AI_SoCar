@@ -19,3 +19,7 @@
   - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
   - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-1.%20Logistic%20Regression.ipynb)
   - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-2.%20Decision%20Tree.ipynb)
++ 3주차(⏳)
+  - 정리 [[notion]](https://www.notion.so/03-576f03092a574dc1be7d4114c78e3176)
+  - Dimensionality Reduction [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-2.%20Dimensionality%20Reduction.ipynb)
+  - Clustering [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-3.%20Clustering.ipynb)
