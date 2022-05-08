@@ -26,4 +26,4 @@
   - Data Analysis with Pandas [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%203.%20Data%20Analysis%20with%20Pandas.ipynb)
 
 ### 과제
-+ 01. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01.ipynb)
++ 01. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01(3).ipynb)
