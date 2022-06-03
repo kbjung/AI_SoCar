@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Class
 + 1주차
-  - 정리 [[notion]]([https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10))
+  - 정리 [[notion]](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
   - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-1.%20Python%2C%20NumPy.ipynb)
   - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-2.%20Linear%20Regression.ipynb)
 + 2주차
