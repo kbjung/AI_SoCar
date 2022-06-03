@@ -24,6 +24,9 @@
   - Dimensionality Reduction [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-2.%20Dimensionality%20Reduction.ipynb)
   - Clustering [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-3.%20Clustering.ipynb)
   - Data Analysis with Pandas [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%203.%20Data%20Analysis%20with%20Pandas.ipynb)
++ 4주차
+  - Pytorch Tutorial [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Chapter%204_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%204(1)_Pytorch%20Tutorial.ipynb)
+  - MLP MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Chapter%204_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%204(2)_MLP%20MNIST%20Classification.ipynb)
 
 ### 과제
 + 01. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01(3).ipynb)
