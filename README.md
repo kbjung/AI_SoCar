@@ -13,21 +13,21 @@
 ### 👨‍💻 Class
 + 1주차
   - 정리 [[notion]](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
-  - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-1.%20Python%2C%20NumPy.ipynb)
-  - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Chapter%201_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%201-2.%20Linear%20Regression.ipynb)
+  - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Lab%201-1.%20Python%2C%20NumPy.ipynb)
+  - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/1%EC%A3%BC%EC%B0%A8/Lab%201-2.%20Linear%20Regression.ipynb)
 + 2주차
   - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
-  - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-1.%20Logistic%20Regression.ipynb)
-  - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Chapter%202_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%202-2.%20Decision%20Tree.ipynb)
+  - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Lab%202-1.%20Logistic%20Regression.ipynb)
+  - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/2%EC%A3%BC%EC%B0%A8/Lab%202-2.%20Decision%20Tree.ipynb)
 + 3주차
   - 정리 [[notion]](https://www.notion.so/03-576f03092a574dc1be7d4114c78e3176)
-  - Dimensionality Reduction [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-2.%20Dimensionality%20Reduction.ipynb)
-  - Clustering [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/3-3.%20Clustering.ipynb)
-  - Data Analysis with Pandas [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Ch3%20%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%203.%20Data%20Analysis%20with%20Pandas.ipynb)
+  - Dimensionality Reduction [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/3-2.%20Dimensionality%20Reduction.ipynb)
+  - Clustering [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/3-3.%20Clustering.ipynb)
+  - Data Analysis with Pandas [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8/Lab%203.%20Data%20Analysis%20with%20Pandas.ipynb)
 + 4주차
   - 정리 [[notion]](https://www.notion.so/04-08ba016c7015437cadfc423e640fc3dc)
-  - Pytorch Tutorial [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Chapter%204_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%204(1)_Pytorch%20Tutorial.ipynb)
-  - MLP MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Chapter%204_%EC%8B%A4%EC%8A%B5%ED%8C%8C%EC%9D%BC/Lab%204(2)_MLP%20MNIST%20Classification.ipynb)
+  - Pytorch Tutorial [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Lab%204(1)_Pytorch%20Tutorial.ipynb)
+  - MLP MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Lab%204(2)_MLP%20MNIST%20Classification.ipynb)
 + 5주차
   - 정리 ⏳ [[notion]](https://www.notion.so/05-ca3e3e550a3342dcad2b8687690d47e0)
 
