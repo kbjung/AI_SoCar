@@ -31,9 +31,12 @@
 + 5주차
   - 정리 [[notion]](https://www.notion.so/05-ca3e3e550a3342dcad2b8687690d47e0)
   - MLP MNIST classification (2) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/5%EC%A3%BC%EC%B0%A8/Lab%205.%20MLP%20MNIST%20classification%20(2).ipynb)
-+ 6주차 ⏳
++ 6주차
   - 정리 [[notion]](https://www.notion.so/06-AI-f0a2d713c26c4edc9c5e62d2e9b539ef)
+  - CNN MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8/Lab%206.CNN%20MNIST%20Classification.ipynb)
++ 7주차 ⏳
+  - 정리
 
 ### ✍ 과제
-+ 01\. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01(3).ipynb)
-+ 02\. 2022-05-24 ~ 06-05 ⏳ 
++ 01\. 3주차, 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8_assignment01/Assignment01(3).ipynb)
++ 02\. 6주차, 2022-05-24 ~ 06-05 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8_assignment02/Assignment_2_MLP_Classification.ipynb) 
