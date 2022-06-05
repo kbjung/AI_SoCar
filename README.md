@@ -38,5 +38,5 @@
   - 정리
 
 ### ✍ 과제
-+ 01\. 3주차, 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8_assignment01/Assignment01(3).ipynb)
-+ 02\. 6주차, 2022-05-24 ~ 06-05 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8_assignment02/Assignment_2_MLP_Classification.ipynb) 
++ 01\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8_assignment01/Assignment01(3).ipynb)
++ 02\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8_assignment02/Assignment_2_MLP_Classification.ipynb) 
