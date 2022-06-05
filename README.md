@@ -27,9 +27,12 @@
 + 4주차
   - 정리 [[notion]](https://www.notion.so/04-08ba016c7015437cadfc423e640fc3dc)
   - Pytorch Tutorial [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Lab%204(1)_Pytorch%20Tutorial.ipynb)
-  - MLP MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Lab%204(2)_MLP%20MNIST%20Classification.ipynb)
+  - MLP MNIST classification (1) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/4%EC%A3%BC%EC%B0%A8/Lab%204(2)_MLP%20MNIST%20Classification.ipynb)
 + 5주차
-  - 정리 ⏳ [[notion]](https://www.notion.so/05-ca3e3e550a3342dcad2b8687690d47e0)
+  - 정리 [[notion]](https://www.notion.so/05-ca3e3e550a3342dcad2b8687690d47e0)
+  - MLP MNIST classification (2) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/5%EC%A3%BC%EC%B0%A8/Lab%205.%20MLP%20MNIST%20classification%20(2).ipynb)
++ 6주차 ⏳
+  - 정리
 
 ### ✍ 과제
 + 01\. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01(3).ipynb)
