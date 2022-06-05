@@ -32,7 +32,7 @@
   - 정리 [[notion]](https://www.notion.so/05-ca3e3e550a3342dcad2b8687690d47e0)
   - MLP MNIST classification (2) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/5%EC%A3%BC%EC%B0%A8/Lab%205.%20MLP%20MNIST%20classification%20(2).ipynb)
 + 6주차 ⏳
-  - 정리
+  - 정리 [[notion]](https://www.notion.so/06-AI-f0a2d713c26c4edc9c5e62d2e9b539ef)
 
 ### ✍ 과제
 + 01\. 2022-05-04 ~ 22 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/assignment01/Assignment01(3).ipynb)
