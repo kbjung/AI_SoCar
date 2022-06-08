@@ -34,9 +34,13 @@
 + 6주차
   - 정리 [[notion]](https://www.notion.so/06-AI-f0a2d713c26c4edc9c5e62d2e9b539ef)
   - CNN MNIST classification [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8/Lab%206.CNN%20MNIST%20Classification.ipynb)
-+ 7주차 ⏳
++ 7주차
   - 정리 [[notion]](https://www.notion.so/07-AI-e71ec95d718d484f96b0a88f19266a41)
+  - Autoencoder [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/7%EC%A3%BC%EC%B0%A8/Lab%207-1.%20Autoencoder.ipynb)
+  - CNN pretrained model [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/7%EC%A3%BC%EC%B0%A8/Lab%207-2.%20CNN%20pretrained%20model%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)
++ 8주차 ⏳
 
 ### ✍ 과제
 + 01\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8_assignment01/Assignment01(3).ipynb)
-+ 02\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8_assignment02/Assignment_2_MLP_Classification.ipynb) 
++ 02\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/6%EC%A3%BC%EC%B0%A8_assignment02/Assignment_2_MLP_Classification.ipynb)
++ 03\. 8주차(2022-06-08 ~ 19) ⏳
