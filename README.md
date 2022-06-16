@@ -40,6 +40,7 @@
   - Autoencoder [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/7%EC%A3%BC%EC%B0%A8/Lab%207-1.%20Autoencoder.ipynb)
   - CNN pretrained model [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/7%EC%A3%BC%EC%B0%A8/Lab%207-2.%20CNN%20pretrained%20model%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)
 + 8주차 ⏳
+  - 정리 [[notion]](https://www.notion.so/08-AI-5a7ccacb68674a81b8bdd6ef70d6090b)
 
 ### ✍ 과제
 + 01\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/3%EC%A3%BC%EC%B0%A8_assignment01/Assignment01(3).ipynb)
