@@ -39,8 +39,10 @@
   - 정리 [[notion]](https://www.notion.so/07-AI-e71ec95d718d484f96b0a88f19266a41)
   - Autoencoder [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch7/Lab%207-1.%20Autoencoder.ipynb)
   - CNN pretrained model [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch7/Lab%207-2.%20CNN%20pretrained%20model%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)
-+ 8주차 ⏳
++ 8주차
   - 정리 [[notion]](https://www.notion.so/08-AI-5a7ccacb68674a81b8bdd6ef70d6090b)
+  - CNN 모델 활용 (1) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch8/Lab%208-1.%20CNN%20model%EC%9D%98%20%ED%99%9C%EC%9A%A9%20(1).ipynb)
+  - CNN 모델 활용 (2) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch8/Lab%208-2.%20CNN%20model%EC%9D%98%20%ED%99%9C%EC%9A%A9%20(2).ipynb)
 
 ### ✍ 과제
 + 01\. 2주차(자율과제) [ipynb](https://github.com/kbjung/AI_SoCar/blob/70e6c67924966d805ef15ff501c0cb11bbdb2ece/class/2%EC%A3%BC%EC%B0%A8/HW1_answer.ipynb)
