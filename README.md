@@ -16,6 +16,7 @@
   - 정리 [[notion]](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
   - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch1/Lab%201-1.%20Python%2C%20NumPy.ipynb)
   - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch1/Lab%201-2.%20Linear%20Regression.ipynb)
+  - 1주차 자율과제 답안 [ipynb](https://github.com/kbjung/AI_SoCar/blob/70e6c67924966d805ef15ff501c0cb11bbdb2ece/class/Ch2/HW1_answer.ipynb)
 + 2주차
   - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
   - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch2/Lab%202-1.%20Logistic%20Regression.ipynb)
@@ -45,7 +46,6 @@
   - CNN 모델 활용 (2) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch8/Lab%208-2.%20CNN%20model%EC%9D%98%20%ED%99%9C%EC%9A%A9%20(2).ipynb)
 
 ### ✍ 과제
-+ 01\. 2주차(자율과제) [ipynb](https://github.com/kbjung/AI_SoCar/blob/70e6c67924966d805ef15ff501c0cb11bbdb2ece/class/2%EC%A3%BC%EC%B0%A8/HW1_answer.ipynb)
-+ 02\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch3_assignment01/Assignment01(3).ipynb)
-+ 03\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch6_assignment02/Assignment_2_MLP_Classification.ipynb)
-+ 04\. 8주차(2022-06-08 ~ 19) 해결 못함. 기본 제공 코드 파일 제출.
++ 01\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch3_assignment01/Assignment01(3).ipynb)
++ 02\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch6_assignment02/Assignment_2_MLP_Classification.ipynb)
++ 03\. 8주차(2022-06-08 ~ 19) 해결 못함. 기본 제공 코드 파일 제출.
