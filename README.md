@@ -21,6 +21,7 @@
   - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
   - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch2/Lab%202-1.%20Logistic%20Regression.ipynb)
   - DecisionTree [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch2/Lab%202-2.%20Decision%20Tree.ipynb)
+  - 2주차 자율과제 답안 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch3/HW2_answer.ipynb)
 + 3주차
   - 정리 [[notion]](https://www.notion.so/03-576f03092a574dc1be7d4114c78e3176)
   - Dimensionality Reduction [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch3/3-2.%20Dimensionality%20Reduction.ipynb)
