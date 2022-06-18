@@ -48,4 +48,4 @@
 + 01\. 2주차(자율과제) [ipynb](https://github.com/kbjung/AI_SoCar/blob/70e6c67924966d805ef15ff501c0cb11bbdb2ece/class/2%EC%A3%BC%EC%B0%A8/HW1_answer.ipynb)
 + 02\. 3주차(2022-05-04 ~ 22) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch3_assignment01/Assignment01(3).ipynb)
 + 03\. 6주차(2022-05-24 ~ 06-05) [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch6_assignment02/Assignment_2_MLP_Classification.ipynb)
-+ 04\. 8주차(2022-06-08 ~ 19) ⏳
++ 04\. 8주차(2022-06-08 ~ 19) 해결 못함. 기본 제공 코드 파일 제출.
