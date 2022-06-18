@@ -16,7 +16,7 @@
   - 정리 [[notion]](https://www.notion.so/01-AI-f06c3473629f48fcacde38184338ab10)
   - python, numpy tutorial with colab [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch1/Lab%201-1.%20Python%2C%20NumPy.ipynb)
   - LinearRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch1/Lab%201-2.%20Linear%20Regression.ipynb)
-  - 1주차 자율과제 답안 [ipynb](https://github.com/kbjung/AI_SoCar/blob/70e6c67924966d805ef15ff501c0cb11bbdb2ece/class/Ch2/HW1_answer.ipynb)
+  - 1주차 자율과제 답안 [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch2/HW1_answer.ipynb)
 + 2주차
   - 정리 [[notion]](https://www.notion.so/02-46eed023c83c482bbcd3581ab39986d3)
   - LogisticRegression [ipynb](https://github.com/kbjung/AI_SoCar/blob/main/class/Ch2/Lab%202-1.%20Logistic%20Regression.ipynb)
